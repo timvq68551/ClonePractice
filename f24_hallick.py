@@ -1,0 +1,11 @@
+print('--------------')
+print('TV Show Quote')
+print('--------------')
+print('')
+print("Fry : \"Yeaaah, that'll show those poor!\"")
+print("Leela : \"Why are you cheering Fry? You're not rich.\"")
+print("Fry : \"True, but someday I might be rich, "
+      "and then people like me better watch their step!\"")
+print('')
+print('- Fry and Leela')
+print('(Futurama, 2012)')
